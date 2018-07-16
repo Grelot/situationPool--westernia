@@ -1,4 +1,4 @@
-##Disclaimer
+## Disclaimer
 
 Vous incarnez le président de la république nouvellement élu de WESTERNIA. Un pays
 imaginaire, archétype de la moyenne puissance occidental type. Votre but est de mener une
@@ -9,7 +9,7 @@ Pour rester président et vous assurez votre réélection, vous devrez impérati
 assurez de maintenir l’approbation du peuple, de votre parti, de la communauté
 internationale et du gouvernement. Faîtes les bons choix !
 
-##Credits
+## Credits
 
 * Projet developpé par 
 __Pierre-Edouard Guerin__
@@ -20,16 +20,16 @@ __Remi Dromnelle__
 __Lea Meunier__
 __Adrien Danzon__
 
-##Releases
+## Releases
 
-##westernia_alpha02 à venir
+### westernia_alpha02 à venir
 
-###westernia_alpha01
+### westernia_alpha01
 * description          : le jeu de base avec les 'cartes' de la 'collection' "normal"
 * date de publication  : 15.18.2018
 * `westernia_main.py`  : script python 3.5.2
 * `donnees/cartes.csv` : fichier .csv UTF-8 contenant les toutes les informations des 'cartes'
 * `donnees/partis.csv` : fichier .csv UTF-8 contenant les toutes les information des 'partis politiques'
 
-###A l'intention des testeurs, contributeurs
+## A l'intention des testeurs, contributeurs
 
