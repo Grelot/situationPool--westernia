@@ -1,4 +1,5 @@
 ##Disclaimer
+
 Vous incarnez le président de la république nouvellement élu de WESTERNIA. Un pays
 imaginaire, archétype de la moyenne puissance occidental type. Votre but est de mener une
 politique arriviste afin d’être réélu président de la république aux prochaines élections.
@@ -9,6 +10,7 @@ assurez de maintenir l’approbation du peuple, de votre parti, de la communaut�
 internationale et du gouvernement. Faîtes les bons choix !
 
 ##Credits
+
 * Projet developpé par 
 __Pierre-Edouard Guerin__
 * avec la participation de
@@ -28,3 +30,4 @@ __Adrien Danzon__
 * `donnees/partis.csv` : fichier .csv UTF-8 contenant les toutes les information des 'partis politiques'
 
 ###A l'intention des testeurs, contributeurs
+
