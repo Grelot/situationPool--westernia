@@ -20,7 +20,9 @@ __Remi Dromnelle__
 __Lea Meunier__
 __Adrien Danzon__
 
-##Packages
+##Releases
+
+##westernia_alpha02 à venir
 
 ###westernia_alpha01
 * description          : le jeu de base avec les 'cartes' de la 'collection' "normal"
