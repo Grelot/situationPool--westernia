@@ -33,3 +33,19 @@ __Adrien Danzon__
 
 ## A l'intention des testeurs, contributeurs
 
+Merci d'écrire vos remarques et suggestions d'améliorations dans le csv google drive suivant :
+
+[https://docs.google.com/spreadsheets/d/1RfIZJ1g2Hb1PGsKfIjvq4nIRMw1dYZiyzHDTwlazbp8/edit?usp=sharing]
+
+Vous pouvez indiquer :
+
+* fautes d'orthographe
+* valeurs du modificateur étranges/inattendues/pas logique avec l'intitulé de la carte et du choix selectionné
+* suggestion pour que la carte soit plus drôle
+* suggestion pour que les modificateurs de la carte soit plus épique
+* signaler une carte offensante/ pas drôle/ sans interêt pour le jeu
+* ...et même proposer vos propres idées de carte !
+
+## Merci à tous pour votre soutien dans le développement de WESTERNIA
+
+
