@@ -9,20 +9,7 @@ Pour rester président et vous assurez votre réélection, vous devrez impérati
 assurez de maintenir l’approbation du peuple, de votre parti, de la communauté
 internationale et du gouvernement. Faîtes les bons choix !
 
-## Credits
-
-* Projet developpé par 
-__Pierre-Edouard Guerin__
-* avec la participation de
-__Christophe Georgescu__
-__Romain Retureau__
-__Remi Dromnelle__
-__Lea Meunier__
-__Adrien Danzon__
-
 ## Releases
-
-### westernia_alpha02 à venir
 
 ### westernia_alpha01
 * description          : le jeu de base avec les 'cartes' de la 'collection' "normal"
@@ -50,7 +37,5 @@ Vous pouvez indiquer :
 * suggestion pour que les modificateurs de la carte soit plus épique
 * signaler une carte offensante/ pas drôle/ sans interêt pour le jeu
 * ...et même proposer vos propres idées de carte !
-
-## Merci à tous pour votre soutien dans le développement de WESTERNIA
 
 
