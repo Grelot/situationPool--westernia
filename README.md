@@ -19,9 +19,11 @@ internationale et du gouvernement. Faîtes les bons choix !
 * `donnees/partis.csv` : fichier .csv UTF-8 contenant les toutes les information des 'partis politiques'
 
 Pour installer/jouer à westernia_alpha01, utiliser un shell LINUX :
-`git clone https://github.com/Grelot/westernia.git`
-`cd westernia_alpha01`
-`python3 westernia_main.py`
+```
+git clone https://github.com/Grelot/westernia.git
+cd westernia_alpha01
+python3 westernia_main.py
+```
 
 ## A l'intention des testeurs, contributeurs
 
