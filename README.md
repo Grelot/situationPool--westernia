@@ -20,7 +20,7 @@ internationale et du gouvernement. Faîtes les bons choix !
 
 Pour installer/jouer à westernia_alpha01, utiliser un shell LINUX :
 ```
-git clone https://github.com/Grelot/westernia.git
+git clone https://github.com/Grelot/situationPool--westernia.git
 cd westernia_alpha01
 python3 westernia_main.py
 ```
